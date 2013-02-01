@@ -1,0 +1,4 @@
+# log file for pblog, you can load the file by YAML load function
+# Data structure:
+# $hash{issue_name}{md_file_name}->(array)
+--- {}

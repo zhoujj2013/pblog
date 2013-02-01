@@ -1,0 +1,20 @@
+# log file for pblog, you can load the file by YAML load function
+# Data structure:
+# $hash{issue_name}{md_file_name}->(array)
+---
+./Linux:
+  ./Linux/2013.02.01-Common_linux_command.md:
+    - Common linux command
+    - 103
+    - 1359709220
+    - 2013-02-01 17:00:20
+    - ./Linux/2013.02.01-Common_linux_command.html
+    - add
+./REST:
+  ./REST/2013.01.01-REST_introduction.md:
+    - REST introduction
+    - 153
+    - 1359709341
+    - 2013-02-01 17:02:21
+    - ./REST/2013.01.01-REST_introduction.html
+    - add
